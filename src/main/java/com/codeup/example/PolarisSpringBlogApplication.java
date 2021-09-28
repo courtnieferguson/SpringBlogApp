@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBlogAppApplication {
+public class PolarisSpringBlogApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBlogAppApplication.class, args);
+        SpringApplication.run(PolarisSpringBlogApplication.class, args);
     }
 
 }
